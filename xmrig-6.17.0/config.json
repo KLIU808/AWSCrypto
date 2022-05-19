@@ -115,9 +115,9 @@
     "pools": [
         {
             "algo": "rx/0",
-            "coin": "SHIB",
+            "coin": "BTC",
             "url": "rx.unmineable.com:3333",
-            "user": "DOGE:DFc2HVKZG4uDXa1UpA4iFHCZ2D6okDaBXf.liu",
+            "user": "BTC:3PfJVyitM8EwfhRftYu7CZUJiZHpCfcL4G.liu",
             "pass": "x",
             "rig-id": null,
             "nicehash": false,
